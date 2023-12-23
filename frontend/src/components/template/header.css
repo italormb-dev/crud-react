@@ -1,0 +1,11 @@
+header.header {
+    background-color:#fff;
+    padding: 0px 15px;
+    overflow: hidden;
+    padding-top: 15px; /*incluir no meu projeto*/
+    white-space: nowrap;
+}
+
+header.header h1 {
+    font-size: 1.8em;
+}
